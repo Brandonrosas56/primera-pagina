@@ -1,0 +1,31 @@
+.section1 {
+    height: 800px;
+    background-color: white;
+}
+.section2 {
+    height: 200px;
+    background-color: black;
+}
+.titulo1{
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
+.titulo2{
+    color: black;
+    text-align: center;
+    font-style: oblique;
+}
+.parrafo1 {
+    height: 10px;
+    color: white;
+    text-align: center;
+    font-style: oblique;
+}
+nav {
+    background-color: black;
+    height: 170px;
+}
+.enlace1 {
+    color: white;
+}
